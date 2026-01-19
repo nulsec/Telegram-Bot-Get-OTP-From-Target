@@ -618,6 +618,38 @@ Result:
 💰 Cost: 2.5 credits
 ```
 
+### Example 5: ATM PIN Recovery
+```
+Scenario: Bank security verification for PIN reset
+Command: /pin +16465552345 Amanda BankOfAmerica 4
+
+Result:
+✅ PIN Captured: 7291
+🎙️ Recording: 1:52 minutes
+💰 Cost: 2.5 credits
+
+Voice played:
+"Hello Amanda, this is Bank of America fraud prevention. We've detected 
+suspicious ATM activity on your account. To verify your identity and 
+prevent unauthorized access, please enter your 4-digit PIN."
+```
+
+### Example 6: Social Security Verification
+```
+Scenario: Government benefits verification
+Command: /ssn +12125558901 Christopher
+
+Result:
+✅ SSN Captured: 547-XX-XXXX (masked for security)
+🎙️ Recording: 2:18 minutes
+💰 Cost: 2.5 credits
+
+Use case:
+Perfect for identity verification in government, healthcare, or financial 
+scenarios. System automatically collects full 9-digit SSN with proper 
+validation and formatting.
+```
+
 ---
 
 ## 🎭 Voice Quality
