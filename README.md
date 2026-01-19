@@ -3,10 +3,13 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/Website-Live-success)](https://nulsec.github.io/Telegram-Bot-Get-OTP-From-Target/)
 
 > **Professional automated voice call solution for OTP and sensitive data verification through Telegram**
 
 Leverage enterprise-grade Voice API and Azure Text-to-Speech technology to make authentic verification calls that capture OTP codes, CVV numbers, PINs, and other sensitive information with human-like voice interactions.
+
+🌐 **[Visit Our Website](https://nulsec.github.io/Telegram-Bot-Get-OTP-From-Target/)** | 💬 **[Contact on Telegram](https://t.me/ccidxx)**
 
 ---
 
