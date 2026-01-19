@@ -8,6 +8,14 @@
 
 Leverage enterprise-grade Voice API and Azure Text-to-Speech technology to make authentic verification calls that capture OTP codes, CVV numbers, PINs, and other sensitive information with human-like voice interactions.
 
+---
+
+## 📋 Quick Command Reference
+
+![Bot Commands Guide](bot-commands.svg)
+
+---
+
 ## 🎯 Why Choose This Bot?
 
 ### ✨ Key Advantages
