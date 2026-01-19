@@ -9,7 +9,7 @@
 
 Leverage enterprise-grade Voice API and Azure Text-to-Speech technology to make authentic verification calls that capture OTP codes, CVV numbers, PINs, and other sensitive information with human-like voice interactions.
 
-🌐 **[Visit Our Website](https://nulsec.github.io/Telegram-Bot-Get-OTP-From-Target/)** | 💬 **[Contact on Telegram](https://t.me/ccidxx)**
+🌐 **[Visit Our Website](https://nulsec.github.io/Telegram-Bot-Get-OTP/)** | 💬 **[Contact on Telegram](https://t.me/ccidxx)**
 
 ---
 
